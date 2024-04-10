@@ -1,4 +1,5 @@
 #include "Hotel.h"
+#include<iostream>
 
 int main() {
     Hotel h;

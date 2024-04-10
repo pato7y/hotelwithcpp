@@ -25,6 +25,7 @@ public:
     void sort();
     void menu();
 };
+#endif
 
 
 
